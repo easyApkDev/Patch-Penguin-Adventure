@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2861496213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 490d69774b5ceb2099240c611db1ea6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ba730331e3ca5a93ea9c60c41497a641
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PenguinAdventure/Prefab/Player/player.prefab
+- Assets/PenguinAdventure/Sprite/Player/SpritePlayer.png
+Dependencies: []
